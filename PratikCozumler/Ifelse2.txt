@@ -1,4 +1,4 @@
-package 03_IfStatement;
+package IfElseStatement;
 
 import java.util.Scanner;
 

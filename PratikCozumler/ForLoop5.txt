@@ -1,4 +1,4 @@
-package 07_ForLoop;
+package ForLoop;
 
 public class Q02 {
     public static void main(String[] args) {

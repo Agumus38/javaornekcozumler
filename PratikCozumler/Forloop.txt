@@ -1,4 +1,4 @@
-package 07_ForLoop;
+package ForLoop;
 
 public class Q19 {
     /*
